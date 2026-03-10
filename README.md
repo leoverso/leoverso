@@ -34,6 +34,7 @@ __<p align="center"> I use technology to find solutions 💡</p>__
 <div align="center" style="margin-bottom:100 px">
 <img width=45% align="center"  src="https://github-readme-stats.vercel.app/api?username=leoverso&theme=discord_old_blurple&show_icons=true)" />
 <img width=35% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=leoverso&show_icons=true&theme=discord_old_blurple&layout=compact" />
+ <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=7023163" style='border:none;'></iframe>
  </div>
 
 ## Contacts
